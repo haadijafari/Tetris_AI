@@ -5,7 +5,7 @@ My University AI Project (Tetris AI) using Python. It uses greedy algorithm.
 The score for each move is computed by assessing the grid the move would result in. This assessment is based on four heuristics: **aggregate height**, **complete lines**, **holes**, and **bumpiness**, each of which the AI will try to either minimize or maximize.
 
 
-Gameplay:
+
 ![Tetris AI GamePlay](/src/tetris_ai_gameplay.gif)
 ## API Reference
 
