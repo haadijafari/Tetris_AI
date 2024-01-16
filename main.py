@@ -3,7 +3,7 @@ import sys
 
 
 def main():
-    g = Game(sys.argv[1])
+    g = Game(sys.argv[1] if len(sys.argv) > 1 else None)
     g.run()
 
 

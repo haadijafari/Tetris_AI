@@ -22,7 +22,7 @@ class Game:
         self.rows_cleared = 0
         if mode == "greedy":
             self.ai = Greedy_AI()
-        else:
+        else: # player
             self.ai = None
 
     def run_no_visual(self):

@@ -25,7 +25,7 @@ p.s: It only requires [PyGame](https://pypi.org/project/pygame/)
 #### Play Yourself
 
 ```bash
-  python main.py player
+  python main.py
 ```
 
 | Action    | Key      | Description                       |
@@ -52,3 +52,7 @@ For this AI, I’ve stuck to the “official” guideline as closely as possible
 
 But I have igmored the last rule for this code.
 
+
+#### Read More
+
+You can read more about how the code works [here](https://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/).(I wrote my code based on this article :D)
